@@ -16,12 +16,12 @@
 
 💬 Ask me about **Flutter, Salesforce, Firebase... or anything [here](https://github.com/tinyboyms/tinyboyms/issues)**
 
-⚡ Fun fact **Introvert 😶‍🌫**
+⚡ Fun fact **I'am Introvert 😶‍🌫**
 
  </div>
  
 <div align="center"> 
-  <a href="sej9662@gmail.com">
+  <a href="mailto:sej9662@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href=": https://www.linkedin.com/in/sujal-mistry45681a22b" target="_blank">
