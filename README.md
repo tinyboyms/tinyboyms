@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Flutter**
  
- 🌱 I’m currently learning **Salesforce, Flutter**
+ 🌱 I’m currently learning **Flutter,Python,Go**
 
 💬 Ask me about **Flutter, Salesforce, Firebase... [here](https://github.com/tinyboyms/tinyboyms/issues)**
 
