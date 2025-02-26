@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter,Python,Go**
 
-💬 Ask me about **Flutter, Salesforce, Firebase... [here](https://github.com/tinyboyms/tinyboyms/issues)**
+💬 Ask me about **Flutter, Go , Python, Firebase... [here](https://github.com/tinyboyms/tinyboyms/issues)**
 
 ⚡ Fun fact **I'am Introvert 😶‍🌫**
 
