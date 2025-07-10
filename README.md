@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently Learning  **Dat Engineer stack** 
+ 🔭 I’m currently Learning  **Data Engineering stack** 
  
  🌱 I’m currently learning **PySpark,Azure,Airflow**
 
