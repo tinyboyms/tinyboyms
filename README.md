@@ -4,17 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sujal+Mistri!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Aspiring Data Engineer software developer from India</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Flutter**
+ 🔭 I’m currently Learning  **Dat Engineer stack** 
  
- 🌱 I’m currently learning **Flutter,Python,Go**
+ 🌱 I’m currently learning **PySpark,Azure,Airflow**
 
-💬 Ask me about **Flutter, Go , Python, Firebase... [here](https://github.com/tinyboyms/tinyboyms/issues)**
 
 ⚡ Fun fact **I'am Introvert 😶‍🌫**
 
