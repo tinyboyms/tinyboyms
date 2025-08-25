@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,cpp&perline=3" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,go" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,py,postgres" />
 </div>
 
 
