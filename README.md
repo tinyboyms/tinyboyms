@@ -37,5 +37,17 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=androidstudio,py,postgres" />
 </div>
+<div align="center">
+ <img src="https://cdn.brandfetch.io/idSUrLOWbH/idOSUN2QlG.svg?c=1bxid64Mup7aczewSAYMX&t=1661139048407" 
+         width="70" height="70" 
+         style="background-color:#2b2b2b; padding:10px; border-radius:15px;"/>
+ <img src="https://cdn.brandfetch.io/idgS27aNck/theme/dark/idc8nWN0hO.svg?c=1bxid64Mup7aczewSAYMX&t=1691215842267" 
+         width="40" height="40" 
+         style="background-color:#2b2b2b; padding:10px; border-radius:15px;"/>
+
+   
+ </div>
+
+  
 
 
